@@ -2,6 +2,15 @@
 
 Requirements:
 
+* Python 3.7
+
+* `numpy`
+
+* `scipy`
+
+* `umap==0.5.2`
+
+Specific requirements for any experiment are defined in the corresponding notebook.
 
 `csv_files` contains the exported markers' trajectories into CSV files, and the captured accelerations also in CSV files. The markers trajectories were exported using the [**MoCap Toolbox**](https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mocaptoolbox), generating a file for each marker.
 
