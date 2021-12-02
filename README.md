@@ -8,6 +8,7 @@ Requirements:
 Each Jupyter notebook corresponds to at least one assessment of the paper:
 
 * `experiment_identification.ipynb`:  
+
 **How reliable is it to distinguish different subjects based on their gait using their trajectories or accelerations?**
 
 **Is there any additional identity information about the subjects in accelerometer's and markers' trajectories beside than the way they walk?**
